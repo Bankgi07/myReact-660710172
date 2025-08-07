@@ -35,4 +35,10 @@
   to {
     transform: rotate(360deg);
   }
+  body {
+  background-color: #212121; /* สีพื้นหลังของเว็บ */
+  margin: 0;
+  font-family: sans-serif;
+}
+
 }
